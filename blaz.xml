@@ -8,5 +8,15 @@
     "data": "https://raw.githubusercontent.com/cncf/landscape/907a0eb0e385827431cd213f4e8fb8d9443a3479/hosted_logos/prometheus.svg",
     "w": 173,
     "h": 150
+  },
+  {
+    "data": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg",
+    "w": 147,
+    "h": 150
+  },
+  {
+    "data": "https://raw.githubusercontent.com/opsview/pyopsview/master/opsview.png",
+    "w": 200,
+    "h": 200
   }
 ]</mxlibrary>
