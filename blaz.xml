@@ -18,5 +18,25 @@
     "data": "https://raw.githubusercontent.com/opsview/pyopsview/master/opsview.png",
     "w": 200,
     "h": 200
+  },
+  {
+    "data": "https://www.svgrepo.com/show/111777/servers.svg",
+    "w": 800,
+    "h": 800
+  },
+  {
+    "data": "https://www.svgrepo.com/show/306776/splunk.svg",
+    "w": 800,
+    "h": 800
+  },
+  {
+    "data": "https://www.svgrepo.com/show/388532/setting-config.svg",
+    "w": 800,
+    "h": 800
+  },
+  {
+    "data": "https://www.svgrepo.com/show/221326/mysql.svg",
+    "w": 800,
+    "h": 800
   }
 ]</mxlibrary>
